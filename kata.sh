@@ -14,7 +14,7 @@ echo -e "\e[32m + Downloading gulpfile.js ... \e[39m"
 wget https://gist.githubusercontent.com/laracasts/52a9f085408605a06400/raw/693215b5c6943d786da1ef75d3f5322c2ffd8367/Gulpfile.js
 
 echo -e "\e[32m + Downloading fail.png \e[39m" 
-wget http://share.genealabs.com/preview/RNr6AmnML27EcKsGJmvf1Ek_6NZxcNI-uoQ9Ud2LLTtgsZcJ0ma_xccTpjdoC1Dvox82UlLq6OXgdWegqONceQ -O fail.png
+wget https://raw.githubusercontent.com/LespiletteMaxime/kata-env-maker/master/fail.png
 
 echo -e "\e[32m + Init package.json \e[39m" 
 echo '{
